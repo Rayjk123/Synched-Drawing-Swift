@@ -17,7 +17,7 @@
                BlueprintIdentifier = "DEC8916A1E092057009E8C63"
                BuildableName = "Chat Korean!.app"
                BlueprintName = "Chat Korean!"
-               ReferencedContainer = "container:Chat Korean!.xcodeproj">
+               ReferencedContainer = "container:Synced-Drawing-Swift.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -35,7 +35,7 @@
             BlueprintIdentifier = "DEC8916A1E092057009E8C63"
             BuildableName = "Chat Korean!.app"
             BlueprintName = "Chat Korean!"
-            ReferencedContainer = "container:Chat Korean!.xcodeproj">
+            ReferencedContainer = "container:Synced-Drawing-Swift.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -58,7 +58,7 @@
             BlueprintIdentifier = "DEC8916A1E092057009E8C63"
             BuildableName = "Chat Korean!.app"
             BlueprintName = "Chat Korean!"
-            ReferencedContainer = "container:Chat Korean!.xcodeproj">
+            ReferencedContainer = "container:Synced-Drawing-Swift.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -77,7 +77,7 @@
             BlueprintIdentifier = "DEC8916A1E092057009E8C63"
             BuildableName = "Chat Korean!.app"
             BlueprintName = "Chat Korean!"
-            ReferencedContainer = "container:Chat Korean!.xcodeproj">
+            ReferencedContainer = "container:Synced-Drawing-Swift.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

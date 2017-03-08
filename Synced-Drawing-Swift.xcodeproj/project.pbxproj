@@ -64,7 +64,7 @@
 		DEC891621E092057009E8C63 = {
 			isa = PBXGroup;
 			children = (
-				DEC8916D1E092057009E8C63 /* Chat Korean! */,
+				DEC8916D1E092057009E8C63 /* Synched-Drawing */,
 				DEC8916C1E092057009E8C63 /* Products */,
 				1CDEE4A58DB43CAF9FB9BA9E /* Pods */,
 				0658444ACECF8404A63E78C9 /* Frameworks */,
@@ -79,7 +79,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		DEC8916D1E092057009E8C63 /* Chat Korean! */ = {
+		DEC8916D1E092057009E8C63 /* Synched-Drawing */ = {
 			isa = PBXGroup;
 			children = (
 				DEC8916E1E092057009E8C63 /* AppDelegate.swift */,
@@ -91,6 +91,7 @@
 				DEC8917A1E092057009E8C63 /* Info.plist */,
 				DE0C72DE1E36BBD100987529 /* GoogleService-Info.plist */,
 			);
+			name = "Synched-Drawing";
 			path = "Chat Korean!";
 			sourceTree = "<group>";
 		};
@@ -134,7 +135,7 @@
 					};
 				};
 			};
-			buildConfigurationList = DEC891661E092057009E8C63 /* Build configuration list for PBXProject "Chat Korean!" */;
+			buildConfigurationList = DEC891661E092057009E8C63 /* Build configuration list for PBXProject "Synced-Drawing-Swift" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -369,7 +370,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		DEC891661E092057009E8C63 /* Build configuration list for PBXProject "Chat Korean!" */ = {
+		DEC891661E092057009E8C63 /* Build configuration list for PBXProject "Synced-Drawing-Swift" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				DEC8917B1E092057009E8C63 /* Debug */,
