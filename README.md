@@ -1,7 +1,7 @@
 # Synched-Drawing-Swift
 
 This is a Synchronized Drawing App using Firebase and Swift 3.0. 
-The project allows all users who have this app to share thier drawings in real time. By real time I mean while I am drawing a line on my screen the information on their screen would be updated. 
+The project allows all users who have this app to share theirr drawings in real time. By real time I mean while I am drawing a line on my screen the information on their screen would be updated. 
 
 ##Installing
 Just download the zip file or desktop version from the big green button you see above in the top right of this repository that says Clone or Download.
