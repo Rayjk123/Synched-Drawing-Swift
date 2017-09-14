@@ -3,10 +3,18 @@
 This is a Synchronized Drawing App using Firebase and Swift 3.0. 
 The project allows all users who have this app to share theirr drawings in real time. By real time I mean while I am drawing a line on my screen the information on their screen would be updated. 
 
-##Installing
-Just download the zip file or desktop version from the big green button you see above in the top right of this repository that says Clone or Download.
+Installing
+Just download the zip file or desktop version from the big green button you see above in the top right of this repository that 
+says Clone or Download, and then follow the instructions below.
 
-##Things to Improve
+Written in Swift with XCode and [CocoaPods](https://cocoapods.org).
+- Install CocoaPods
+- `git clone` our repository
+- Run `pod install` in the base directory
+- Open `*.xcworkspace` in XCode. **Warning**: Do not open `*.xcodeproj`!
+- Build and run in XCode. Tested on iOS 10.3 (Simulator).
+
+Things to Improve
 * Add a login screen that allows for a one time login.
 * Create drawing rooms so not everyone shares the same drawing space
 * Include chat functionality with the drawing rooms
@@ -14,5 +22,5 @@ Just download the zip file or desktop version from the big green button you see 
 * Add options for colors and drawing size and erasing (drawing in white)
 * Maybe add different backgrounds? Like choosing a different color background or choosing an image as a background?
 
-###Note
+Note
 Ignore the name of the file. This project was originally meant to be include chat functionality which I have currently not gotten around to doing.
